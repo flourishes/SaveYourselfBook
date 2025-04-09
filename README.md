@@ -1,1 +1,10 @@
-# SaveYourselfBook
+# Why to write
+
+## 白血病自救指南
+
+### 目的
+
+<mark style="color:red;">**本指南仅供参考，具体以医生意见为主。**</mark>\
+旨在为独自一人的极端环境下，提供部分病友的意见，\
+如何就医及后续诊疗。
+
