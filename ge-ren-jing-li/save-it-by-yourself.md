@@ -18,7 +18,7 @@ Permission to be human.
 
 And then Help yourselves in anyways.
 
-### **第一关 插Picc管**
+### **第一关 Picc管**
 
 为什么将它写在前面。
 
@@ -29,6 +29,8 @@ And then Help yourselves in anyways.
 * 对于医学知识缺乏的你，会感到十分害怕吧。（PS，我第一周插管甚至害怕得睡不着，这也是我后续精神陷入不正常的原因。）
 * 只是一根细细的医学用管，不会影响到你的心脏甚至血脉。
 * 你甚至可以轻微地举起手臂，放心，它不会逆流。
+* <mark style="color:blue;">洗澡：</mark>不要弄到穿刺口 picc管是顺着血管走的 你轻轻搓也不会有事（可换膜前一晚洗）。
+* 保护套：可以上某宝pdd买一个picc保护套
 
 
 
