@@ -7,6 +7,7 @@
 
 * [Save it by yourself](ge-ren-jing-li/save-it-by-yourself.md)
 * [Should do](ge-ren-jing-li/should-do.md)
+* [第一感觉](ge-ren-jing-li/di-yi-gan-jue.md)
 
 ## 经验贴
 
