@@ -14,3 +14,7 @@
 * [经验贴（By 猫猫老大）](jing-yan-tie/jing-yan-tie-by-mao-mao-lao-da.md)
 * [Page](jing-yan-tie/page.md)
 * [关于筹钱](jing-yan-tie/guan-yu-chou-qian.md)
+
+## 碎碎念
+
+* [To my friends](sui-sui-nian/to-my-friends.md)
