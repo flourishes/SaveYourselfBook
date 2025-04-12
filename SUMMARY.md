@@ -18,3 +18,7 @@
 ## 碎碎念
 
 * [To my friends](sui-sui-nian/to-my-friends.md)
+
+## 休养篇
+
+* [See some Interesting things](xiu-yang-pian/see-some-interesting-things.md)
