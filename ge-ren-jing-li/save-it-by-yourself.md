@@ -18,6 +18,14 @@ Permission to be human.
 
 And then Help yourselves in anyways.
 
+
+
+GBC里的nina ：活下去，拯救自己，然后成为自己的英雄。
+
+
+
+
+
 ### **第一关 Picc管**
 
 为什么将它写在前面。
